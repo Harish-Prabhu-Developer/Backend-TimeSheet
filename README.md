@@ -6,6 +6,7 @@
 ## ABSTRACT
 * <p align="justify">This internship project report describes a mobile application for employee time sheet management, developed using React Native for the frontend and NodeJS for the backend. The Time Sheet Mobile App aims to provide a user-friendly and efficient solution for time tracking and management, catering to the needs of modern businesses and their workforce.
 </p>
+
 * <p align="justify">The project addresses the critical need for accurate timekeeping, project management, and employee productivity tracking in a mobile-first world. By leveraging the capabilities of smartphones, the application offers a seamless and flexible solution for employees and managers to record and monitor work activities on-the-go. It is designed to address the dynamic requirements of contemporary work environments and ensure efficient and effortless time tracking and project organization. This backend server manages log time entries submitted by employees.
 </p>
 
