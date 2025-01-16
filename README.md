@@ -1,32 +1,33 @@
+# TIMESHEET SERVER (Backend for the TimeSheet Mobile App)
 
- # TIMESHEET SERVER (It is Backend for the TimeSheet Mobile App )
+## ABSTRACT
 
- ## ABSTRACT
-<ul>
- <li>
-   <p align="justify">The internship project report entitled as <strong>“MOBILE APPLICATION FOR EMPLOYEE TIME SHEET”</strong> developed in <strong>React Native</strong> as a frontend and <strong>NodeJS</strong> as a backend. The Time Sheet Mobile App Project aims to develop a user-friendly and efficient mobile application for time tracking and management that is tailored to meet the needs of modern businesses and their workforce. This project addresses the critical need for accurate timekeeping, project management, and employee productivity tracking in a mobile-first world. By leveraging the capabilities of smartphones, the proposed application seeks to provide a seamless and flexible solution for employees and managers to record and monitor work activities on-the-go. The proposed application is designed to cater to the dynamic requirements of contemporary work environments and ensure efficient and effortless time tracking and project organization. In this project, manage the log time entry on behalf of the employee of the company.</p>
- </li>
-</ul>
+This internship project report describes a mobile application for employee time sheet management, developed using React Native for the frontend and NodeJS for the backend. The Time Sheet Mobile App aims to provide a user-friendly and efficient solution for time tracking and management, catering to the needs of modern businesses and their workforce.
+
+The project addresses the critical need for accurate timekeeping, project management, and employee productivity tracking in a mobile-first world. By leveraging the capabilities of smartphones, the application offers a seamless and flexible solution for employees and managers to record and monitor work activities on-the-go. It is designed to address the dynamic requirements of contemporary work environments and ensure efficient and effortless time tracking and project organization. This backend server manages log time entries submitted by employees.
 
 ### Technologies Used
-<ul>
-  <li>Express</li>
-  <li>Bcrypt</li>
-  <li>Body-parser</li>
-  <li>crypto</li>
-  <li>Mongoose</li>
-  <li>JsonWebToken (OR) JWT </li>
-  <li>NodeMailer</li>
-</ul>
+
+* Express.js
+* Bcrypt
+* Body-parser
+* crypto
+* Mongoose
+* JsonWebToken (JWT)
+* NodeMailer
 
 ### Getting Started
-### Prerequisites
-<p>To run the app, you will need to have the following installed on your machine:</p>
-<ul>
- <li>Node.js</li>
- <li>npm</li>
-</ul>
-<p>Clone the project</p>
+
+#### Prerequisites
+
+To run the app, you will need the following installed on your machine:
+
+* Node.js
+* npm
+
+#### Installation
+
+1. Clone the project:
 
 ```bash
   git clone https://github.com/Harish-Prabhu-Developer/Backend-TimeSheet.git
@@ -61,11 +62,10 @@ store data to the needed forms database collections are prepared.</p>
   </li>
  </ul>
  
+## 👉 Backend & Web repo link
+* #### 📱  [Mobile App](https://github.com/Harish-Prabhu-Developer/Time_Sheet_ReactNative) 
+* #### 🖥️  [Backend Server](https://github.com/Harish-Prabhu-Developer/Backend-TimeSheet)
 
-## 👉 Backend & MobileApp repo link
-* #### 🌐  [Mobile App]([https://github.com/BuiKhanhHuy/my-job-web-app](https://github.com/Harish-Prabhu-Developer/Time_Sheet_ReactNative))
-* #### 🖥️  [Backend Server]([https://github.com/BuiKhanhHuy/myjob_api](https://github.com/Harish-Prabhu-Developer/Backend-TimeSheet)) 
- 
 
 
  
