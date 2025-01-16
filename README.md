@@ -34,23 +34,23 @@ To run the app, you will need the following installed on your machine:
 1. Clone the project:
 
 ```bash
-  git clone https://github.com/Harish-Prabhu-Developer/Backend-TimeSheet.git
+git clone https://github.com/Harish-Prabhu-Developer/Backend-TimeSheet.git
 ```
 
 <p>change directory</p>
 
 ```bash
-  cd Backend-TimeSheet
+cd Backend-TimeSheet
 ```
 <p>Install dependencies</p>
 
 ```bash
-  npm i
+npm i
 ```
 <p>Start the server</p>
 
 ```bash
-  npm start
+npm start
 ```
 
  #### Database Design 
