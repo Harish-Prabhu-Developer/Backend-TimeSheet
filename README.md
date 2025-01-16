@@ -1,5 +1,8 @@
 # TIMESHEET SERVER (Backend for the TimeSheet Mobile App)
 
+## 👉 Mobile App repo link
+* #### 📱  [Mobile App](https://github.com/Harish-Prabhu-Developer/Time_Sheet_ReactNative) 
+
 ## ABSTRACT
 
 This internship project report describes a mobile application for employee time sheet management, developed using React Native for the frontend and NodeJS for the backend. The Time Sheet Mobile App aims to provide a user-friendly and efficient solution for time tracking and management, catering to the needs of modern businesses and their workforce.
@@ -62,10 +65,6 @@ store data to the needed forms database collections are prepared.</p>
   </li>
  </ul>
  
-## 👉 Backend & Web repo link
-* #### 📱  [Mobile App](https://github.com/Harish-Prabhu-Developer/Time_Sheet_ReactNative) 
-* #### 🖥️  [Backend Server](https://github.com/Harish-Prabhu-Developer/Backend-TimeSheet)
-
 
 
  
